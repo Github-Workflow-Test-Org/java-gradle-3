@@ -8,7 +8,7 @@ There are 3 sub pjojects.
 
 * common: utility library
 * base: base class or interface
-* app: application requires base or common
+* app: application requires base or common..
 
 ```bash
 $ tree common/ base/ app/
