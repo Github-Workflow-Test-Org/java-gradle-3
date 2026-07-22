@@ -15,7 +15,7 @@ $ tree common/ base/ app/
 common/
 ├── build.gradle
 └── src
-    └── main
+    └── mains
         └── java
             └── common
                 └── MyLibrary.java
